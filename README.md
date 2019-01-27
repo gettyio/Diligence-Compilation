@@ -27,7 +27,7 @@
 
 | Title | Author(s)  | Date |
 | -------- | -------- | -------- |
-| [Smashing Ethereum Smart Contracts for Fun and Real Profit](Papers/D1T2 - Bernhard Mueller - Smashing Ethereum Smart Contracts for Fun and ACTUAL Profit.pdf) | Bernhard Mueller    |  April 2018
+| [Smashing Ethereum Smart Contracts for Fun and Real Profit](Papers/D1T2%20-%20Bernhard%20Mueller%20-%20Smashing%20Ethereum%20Smart%20Contracts%20for%20Fun%20and%20ACTUAL%20Profit.pdf) | Bernhard Mueller    |  April 2018
 
 
 
