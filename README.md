@@ -1,7 +1,15 @@
-![ConsenSys Diligence](files/logos/CDili.png)
-
 # ConsenSys Diligence Compilation
 
+![ConsenSys Diligence](files/logos/CDili.png)
+
+## Table of Contents
+- [ConsenSys Diligence Compilation](#consensys-diligence-compilation)
+  * [Presentations](#presentations)
+  * [Papers](#papers)
+  * [Audits](#audits)
+  * [Panels and Workshops](#panels-and-workshops)
+
+-----------
 
 ## Presentations
 
@@ -18,8 +26,8 @@
 ## Papers
 
 | Title | Author(s)  | Date |
-| -------- | -------- | -------- | ------- |
-| [Smashing Ethereum Smart Contracts for Fun and Real Profit](Papers/D1T2 - Bernhard Mueller - Smashing Ethereum Smart Contracts for Fun and ACTUAL Profit.pdf)     | Bernhard Mueller    |  April 2018
+| -------- | -------- | -------- |
+| [Smashing Ethereum Smart Contracts for Fun and Real Profit](Papers/D1T2 - Bernhard Mueller - Smashing Ethereum Smart Contracts for Fun and ACTUAL Profit.pdf) | Bernhard Mueller    |  April 2018
 
 
 
