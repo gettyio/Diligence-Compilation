@@ -45,7 +45,7 @@
 | [uPort](https://www.uport.me/) | [Report](https://github.com/ConsenSys/uport-audit) | April 2017
 | [Token-Curated Registry](https://github.com/skmgoldin/tcr) | [Report](https://github.com/ConsenSys/tcr-audit/blob/master/README.pdf) | April 2018 |
 | [Imbrex](https://imbrex.io/) | [Report](https://drive.google.com/file/d/1KCFBTMK5dQeqxzmOsjs-fxeLmi7P12F1/view), [Announcement](https://about.imbrex.io/blog/consensys-diligence-audit-summary/) | March 2018
-
+| [Simple-multisig](https://github.com/christianlundkvist/simple-multisig) | [Report](Audits/SimpleMultisigWallet_Audit.pdf) | September 2018
 
 ## Panels and Workshops
 
