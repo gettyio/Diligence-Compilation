@@ -35,8 +35,8 @@
 
 | Title | Links | Date |
 | -------- | -------- | -------- |
-| [0x](https://0x.org/) ([MultiAssetProxy](https://github.com/0xProject/0x-protocol-specification/blob/ad13141d9a2c6d93e06658d18c53e9f3d99442d4/v2/v2-specification.md#multiassetproxy)) | [Report](https://github.com/ConsenSys/0x-audit-report-2018-12), [Announcement](https://blog.aragon.org/releasing-aragonos-4/) | December 2018
-| [Aragon](https://aragon.org/) | [Report](https://github.com/ConsenSys/aragon_audit_report_2018-06-04_extended/blob/master/Aragon-Audit-final.md) | November 2018 |
+| [0x](https://0x.org/) ([MultiAssetProxy](https://github.com/0xProject/0x-protocol-specification/blob/ad13141d9a2c6d93e06658d18c53e9f3d99442d4/v2/v2-specification.md#multiassetproxy)) | [Report](https://github.com/ConsenSys/0x-audit-report-2018-12) | December 2018
+| [Aragon](https://aragon.org/) | [Report](https://github.com/ConsenSys/aragon_audit_report_2018-06-04_extended/blob/master/Aragon-Audit-final.md), [Announcement](https://blog.aragon.org/releasing-aragonos-4/) | November 2018 |
 | [0x](https://0x.org/) ([Version 2](https://github.com/0xProject/0x-protocol-specification/blob/master/v2/v2-specification.md)) | [Report](https://github.com/ConsenSys/0x_audit_report_2018-07-23), [Announcement](https://media.consensys.net/auditing-the-0x-protocol-v2-with-consensys-diligence-a52995407730) | September 2018
 | [Brickblock](https://www.brickblock.io/) | [Report](https://github.com/brickblock-io/smart-contracts/blob/master/docs/audits/2018-09-20%20-%20Full%20Ecosystem%20%5BPhase%202%5D%20-%20Audit%20by%20ConsenSys%20final.pdf), [Announcement](https://blog.brickblock.io/consensys-diligence-delivers-final-audit-report-on-brickblock-smart-contract-ecosystem-c8a521b64d8e) | September 2018 |
 | [Simple-multisig](https://github.com/christianlundkvist/simple-multisig) | [Report](Audits/SimpleMultisigWallet_Audit.pdf) | September 2018 |
