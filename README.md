@@ -42,6 +42,7 @@
 | [Simple-multisig](https://github.com/christianlundkvist/simple-multisig) | [Report](Audits/SimpleMultisigWallet_Audit.pdf) | September 2018 |
 | [Meridio](https://www.meridio.co/) | [Announcement](https://medium.com/meridio/meridio-partners-with-airswap-to-integrate-tools-for-secondary-trading-ebafcf3240ea) | September 2018 |
 | [FOAM](https://foam.space/) | [Report](https://github.com/f-o-a-m/public-research/blob/master/foam-controller-audit-report-2018-08-24-master.pdf), [Announcement](https://twitter.com/foamspace/status/1038114569003167745) | August 2018 |
+|[CENTRE](https://www.centre.io/index.html) USDC token | [Announcement](https://medium.com/centre-blog/designing-an-upgradeable-ethereum-contract-3d850f637794) | August 2018 |
 | [Modular](https://github.com/Modular-Network) ([Interactive Coin Offerings](https://people.cs.uchicago.edu/~teutsch/papers/ico.pdf)) | [Report](https://github.com/ConsenSys/Interactive-Crowdsale-Audit), [Announcement](https://media.consensys.net/interactive-crowdsale-iico-audit-5307e4d3b897)| July 2018 |
 | TCR ([Token-Curated Registry](https://github.com/skmgoldin/tcr)) | [Report](https://github.com/ConsenSys/tcr-audit/blob/master/README.pdf) | April 2018 |
 | [Imbrex](https://imbrex.io/) | [Report](https://drive.google.com/file/d/1KCFBTMK5dQeqxzmOsjs-fxeLmi7P12F1/view), [Announcement](https://about.imbrex.io/blog/consensys-diligence-audit-summary/) | March 2018  |
