@@ -27,6 +27,7 @@
 
 | Title | Venue | Author(s)  | Date |
 | -------- | -------- | -------- | -------- |
+| [SoK: Transparent Dishonesty: front-running attacks on Blockchain](https://arxiv.org/abs/1902.05164) | [WTSC @ FC'19](http://fc19.ifca.ai/wtsc/) | Shayan Eskandari | February 2019 |
 | [Smashing Ethereum Smart Contracts for Fun and Real Profit](Papers/D1T2%20-%20Bernhard%20Mueller%20-%20Smashing%20Ethereum%20Smart%20Contracts%20for%20Fun%20and%20ACTUAL%20Profit.pdf) | [HITB Security Conference](https://conference.hitb.org/hitbsecconf2018ams/) | Bernhard Mueller    |  April 2018  |
 
 
