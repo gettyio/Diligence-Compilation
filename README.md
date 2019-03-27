@@ -1,3 +1,7 @@
+# Moved to : [https://consensys.github.io/diligence/](https://consensys.github.io/diligence/)
+
+-----------
+
 # ConsenSys Diligence Compilation
 
 ![ConsenSys Diligence](files/logos/CDili.png)
